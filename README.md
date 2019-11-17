@@ -7,3 +7,5 @@ With this, you can use [https://wa.me/](https://wa.me/) to send a WhatsApp messa
 To use this, you need a web server. Which software you use for the web server, is irrelevant, as it is just a static HTML page with some JavaScript and CSS.
 
 Uses [Flag Icons by FamFamFam](http://www.iconarchive.com/show/flag-icons-by-famfamfam.html).
+
+If you want to use this without building it yourself (or you want to check it out), go to [the WhatsApp helper on Google Cloud Platform](https://whatsapp-helper.appspot.com/)!
