@@ -94,17 +94,10 @@ function doSelect(element) {
 } // function doSelect
 
 function doStuff() {
-  var myWindow;
-  myWindow = window.open(
+  window.open(
     'https://wa.me/' + countrycode + document.querySelector('input#prefix').value +
     document.querySelector('input#subscriber').value,
     '_blank'
-  );
-  setTimeout(
-    function() {
-      myWindow.close();
-    },
-    1500
   );
 } // function doStuff
 
